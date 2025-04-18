@@ -24,7 +24,7 @@ Me chamo Davi Amorim Mendes. Atualmente estou cursando Técnico de Informática 
 ---
 
 ### Linguagens e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,c,mysql,git)](https://skillicons.dev)
 
 ### Estatísticas:
 <img 
