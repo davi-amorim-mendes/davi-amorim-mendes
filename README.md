@@ -1,4 +1,5 @@
-<div style="background-color: #221a0f; padding: 0px;">
+<div style="background-color: white; padding: 0px;">
+
 # Bem vindo ao meu Portifólio! ✨
 **`Desenvolvedor Fullstack`**
 
