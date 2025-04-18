@@ -1,6 +1,7 @@
-<div style="background-color: white; padding: 0px;">
-
-# Bem vindo ao meu Portifólio! ✨
+<table style="background-color: #221a0f; width: 100%; border-radius: 10px;">
+  <tr>
+    <td>
+    # Bem vindo ao meu Portifólio! ✨
 **`Desenvolvedor Fullstack`**
 
 Me chamo Davi Amorim Mendes. Atualmente estou cursando Técnico de Informática para Internet no Senai e Engenharia de Computação na UFAL.
@@ -43,4 +44,5 @@ Me chamo Davi Amorim Mendes. Atualmente estou cursando Técnico de Informática 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amorim-mendes&theme=gruvbox&include_all_commits=true&locale=pt-br&custom_title=Tecnologias&bg_color=362712&icon_color=809146&text_color=d3af86&title_color=f48f2b"
 />
-</div>
+  </tr>
+</table>
