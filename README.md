@@ -1,47 +1,32 @@
-<div style="background-color: #221a0f; color: #ffffff; padding: 20px; border-radius: 8px;">
+<div style="background-color:rgb(201, 138, 51); color: #e0e0e0; padding: 20px; border-radius: 8px; font-family: Arial, sans-serif;">
 
-# Bem vindo ao meu Portifólio! ✨
-**`Desenvolvedor Fullstack`**
+# Bem vindo ao meu Portifólio! 👋
 
-Me chamo Davi Amorim Mendes. Atualmente estou cursando Técnico de Informática para Internet no Senai e Engenharia de Computação na UFAL.
+**Desenvolvedor Fullstack** 💻
 
-<p align="left"> 
-    <a href="https://github.com/davi-amorim-mendes?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/davi-amorim-mendes?color=d3af86&labelColor=ca2d33&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/davi-amorim-mendes?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/davi-amorim-mendes?color=d3af86&style=for-the-badge&labelColor=809146&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://br.linkedin.com/in/davi-amorim-mendes-022a01307" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</p>
+Me chamo Davi Amorim Mendes. Atualmente estudo:  
+- 🎓 Técnico de Informática para Internet no Senai  
+- 🚀 Engenharia de Computação na UFAL  
 
 ---
 
-### Linguagens e Tecnologias:
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,git,c)](https://skillicons.dev)
+## 🛠️ Linguagens e Tecnologias:
 
-### Estatísticas:
-<img 
-    align="left"
-    alt="Github stats" 
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats.vercel.app/api?username=davi-amorim-mendes&show_icons=true&theme=gruvbox&include_all_commits=true&locale=pt-br&bg_color=362712&icon_color=809146&text_color=d3af86&title_color=f48f2b"
-/>
-<img 
-    align="left" 
-    alt="Github stats"  
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi-amorim-mendes&theme=gruvbox&include_all_commits=true&locale=pt-br&custom_title=Tecnologias&bg_color=362712&icon_color=809146&text_color=d3af86&title_color=f48f2b"
-/>  
+### 📊 Estatísticas:
+
+- **GitHub Analytics**  
+  ⭐ Total de estrelas: **3**  
+  📌 Total de Commits: **30**  
+  🔄 Total de PRs: **0**  
+  🐛 Total de Issues: **0**  
+  🌟 Contribuições (ano passado): **0**  
+
+---
+
+### 💻 Tecnologias Principais:
+
+- **HTML** (59.5%)  
+- **CSS** (26.33%)  
+- **JavaScript** (14.17%)  
 
 </div>
