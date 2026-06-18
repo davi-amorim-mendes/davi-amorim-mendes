@@ -1,7 +1,7 @@
 # Bem vindo ao meu Portifólio! ✨
 **`Desenvolvedor Fullstack`**
 
-Me chamo Davi Amorim Mendes. Atualmente estou cursando Técnico de Informática para Internet no Senai e Engenharia de Computação na UFAL.
+Me chamo Davi Amorim Mendes e estudo Engenharia de Computação pela UFAL, concluí o curso Técnico em Informática para Internet e Operador de Computador pelo SENAI.
 
 <p align="left"> 
     <a href="https://github.com/davi-amorim-mendes?tab=followers">
